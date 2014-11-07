@@ -10,28 +10,32 @@ I believe Unicode is one of those topics that many Computer Scientists say they 
 ###Theory and Vocabulary
 **Unicode** is a [set of mappings](http://en.wikipedia.org/wiki/List_of_Unicode_characters), from **code points** (integers) to descriptions. Here's some examples:
 
-| Hex | Decimal | Name | Appearance  |
-| :------------- |-------------:|---------|------:|
-| 0x003E | 62 | GREATER-THAN SIGN      | > |   
-| 0x003F | 63 | QUESTION MARK          | ? |   
-| 0x0040 | 64 | COMMERCIAL AT          | @ |   
-| 0x0041 | 65 | LATIN CAPITAL LETTER A | A |   
-| 0x0042 | 66 | LATIN CAPITAL LETTER B | B |   
-| 0x0043 | 67 | LATIN CAPITAL LETTER C | C |   
-| 0x0989 | 2441 | BENGALI LETTER U | উ |
+| Hex | Decimal | Name | 
+| :------------- |-------------:|---------:|
+| 0x003E | 62 | GREATER-THAN SIGN      |    
+| 0x003F | 63 | QUESTION MARK          |    
+| 0x0040 | 64 | COMMERCIAL AT          |    
+| 0x0041 | 65 | LATIN CAPITAL LETTER A |    
+| 0x0042 | 66 | LATIN CAPITAL LETTER B |    
+| 0x0043 | 67 | LATIN CAPITAL LETTER C |    
+| 0x0989 | 2441 | BENGALI LETTER U | 
 
-A **glyph** is a visible representation of a unicode character. Its input is a *code point* and the output is an image that shows up on a computer screen. It figures out what to draw by looking up what the character is in the unicode table.
+A **glyph** is a visible representation of a unicode character. A **font** is a set of glyphs. Its input is a *code point* and the output is a *glyph* that shows up on a computer screen. It figures out which *glyph* to draw by looking up what the character is in the unicode table. The table above has the following glyphs, under one font: > ?  @ A B C উ
+
+
 
 ### Playtime!!
 
-Let's print out the letter "u" (*code point* 175, which is `0x75` in hex):
+Let's print out the letter "u" (*code point* 175, which is `75` in hex, denoted `0x75`):
 
 ~~~~~
 $ echo -e "\u75"
 u
 ~~~~~
 
-A **non spacing mark** is a *code point* that does not take up a character width. It's generally used in addition with some letter, like diaresis (*code point* 0x308). Let's check it out in bash:
+Let's print the one with a diaresis on top of it:
+
+A **non-spacing (combining) mark** is a *code point* that does not take up a character width. It's generally used in addition with some letter, like diaresis (*code point* 0x308). Let's check it out in bash:
 
 ~~~~~
 $ echo -e "\u75\u308"
@@ -101,5 +105,12 @@ $ echo -en "\u20ac" | xxd
 ~~~~~~~
 
 And that is indeed `0xE2 82 AC`, as Wikipedia says!
+
+### Thoughtful Details
+
+#### UTF-8 is not space efficient
+Notice that in the [Wikipedia table](http://localhost:4000/assets/utf8-table.png) that when using 2 bytes, there are 11 x's. So that's 2^11 = 2048 possible entries. But it's stated that the code point range is from 0x80 to 0x7FF. That's 1920 possible entries. Why aren't these the same? The answer is that UTF-8 sacrifices memory efficiency for simplicity. Or maybe it's also because Ken Thompson came up with UTF-8 on a napkin :p  TODO link (Connor)
+
+#### Unicode redundancies
 
 

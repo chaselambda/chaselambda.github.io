@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Autojump"
+date: 2014-11-07T11:44:47-05:00
+---
+
+#Faster Command Line Navigation
+
+[Autojump](https://github.com/joelthelion/autojump) is a great terminal tool. It remembers the directories you’ve visited recently and allows you to jump to them using `j` command.
+
+For example, say I recently visited `~/foo/fun-c-code`. If I run `j fun-c-code` from the terminal, from any directory, it will be the same as running `cd ~/foo/fun-c-code`.
+
+Sometimes, there will be multiple matches. Say that there's actually a directory `~/other/fun-c-code` that I want to visit. If I typed that same autojump command, I would be in the wrong directory. Autojump solves this by allowing you to type `tab` three times. It will then give you a list of options from which to choose. It's pretty cumbersome though, and not the main use case of autojump.
+
+#Let's make a better autojump!
+I suggest the following:
+
+* Typing `j<enter>` opens up a terminal program that lets you search through your recently visited directories. Without typing anything, it will list the 10 most recently visited directories.
+* As you start typing, it updates the list of matching directories from which you can pick. Search is fuzzy[^fuzzy], just like sublime or the ctrl+p plugin in vim when searching for files.
+* You can scroll through the listings with your arrow keys or `ctrl+j/k`.
+* If you press `tab` on an entry it populates the search box with that entry. This would be useful if you know how to get to an ancestor of some directory, but you then want to go find the child.
+* If you press `enter` you will `cd` into that directory.
+
+## Navigating to directories not recently visited
+* If there is no match in the set of directories that have been recently visited, the tool could fall back to searching over all directories on a file system. Preliminary tests show this could be fast because the number of directories in a file system is generally not massive (<100000).
+* A user could also restrict the search to some sub directory by starting a search with `./` (current directory), or `~` (home directory). Everything after these keywords would be fuzzy searched in sub directories of those terms.
+
+[^fuzzy]: Fuzzy means given your search term, the result can have any character between each of the searched characters. So a search of "**butsub**" finds "/my/**but**terfly/**sub**directory".
