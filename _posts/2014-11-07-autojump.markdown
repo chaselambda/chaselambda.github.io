@@ -4,6 +4,8 @@ title: "Autojump"
 date: 2014-11-07T11:44:47-05:00
 ---
 
+**Update - [I found the answer!](/2014/11/07/hella-fast-command-line-navigation.html)**
+
 #Faster Command Line Navigation
 
 [Autojump](https://github.com/joelthelion/autojump) is a great terminal tool. It remembers the directories you’ve visited recently and allows you to jump to them using `j` command.
