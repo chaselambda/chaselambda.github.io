@@ -16,6 +16,7 @@ sudo apt-get install libsqlite3-dev
 * Install https://github.com/yyuu/pyenv-virtualenv
     * I suggest not using "$ echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash\_profile". Just activate when necessary using "pyenv activate <name>".
     * Note that when making a new virtualenv, it is global and not created in the current directory (like normal virtualenv).
+
 ~~~~~
 pyenv install 2.7.8
 pyenv virtualenv venvtwo
