@@ -9,3 +9,9 @@ github_username:  theicfire
 
 # Build settings
 markdown: kramdown
+kramdown:
+    input: GFM
+syntax-highlighting:
+    enabled: true
+    css: syntax.css
+highlighter: pygments
