@@ -53,7 +53,7 @@ Let's see what is forking.
 $ strace -o out -f tmux
 # Then detach from tmux
 $ cat out
-# TODO better output..
+# No mentions to fork!
 {% endhighlight %}
 
 Problem is, strace actually doesn't record the fork system call. I'm not sure why, but I'm guessing it's fork in particular that doesn't work. It does tell us when a process exits though. Oddly it never mentions the `9930` pid. Hmm.
