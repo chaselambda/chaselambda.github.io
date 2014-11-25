@@ -210,3 +210,6 @@ int main()
 
 ### Why does daemon not call our special fork?
 Here's my guess: daemon and fork are in the same library: `unistd.h`. Daemon doens't need to externally look for the fork function through dynamic linking because it already knows where it is. I haven't yet confirmed this though.
+
+### Wait wait. How does tmux start up?
+Right! So turns out the source just tells us, and all this debugging wasn't necessary at all :p. It forks a child in `server_start`, which then forks a further child and kills itself (by calling `daemon`). Now that that grandchild has no parent, `init` picks it up. Nice!
