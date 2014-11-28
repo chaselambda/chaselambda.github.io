@@ -3,7 +3,7 @@ layout: post
 title: "How Tmux Starts Up: An Adventure With Linux Tools"
 date: 2014-11-25T13:58:45-05:00
 ---
-
+Update! Here's the [solution](/2014/11/28/how-tmux-starts-up-an-adventure-with-linux-tools-updated.html).
 Julia Evans visited Hacker School yesterday, and I got to work with her on a super neat problem. In the end, the question became *How does tmux start?*. Specifically:
 
 
