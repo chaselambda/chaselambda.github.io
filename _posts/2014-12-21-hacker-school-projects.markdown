@@ -48,7 +48,6 @@ I had an amazing time at [Hacker School](https://www.hackerschool.com/). Here ar
 * Eudyptula Challenge
 * Node Promises with Pedro
 * [LD_PRELOAD](http://blog.chaselambda.com/2014/11/25/how-tmux-starts-up-an-adventure-with-linux-tools.html) w/ Julia Evans 
-* [liquid nitrogen chilled drinks](http://momofuku.com/new-york/booker-and-dax/)
 * light dimmers for xmas lights - got shocked :/. W/ [James Keene](https://twitter.com/_jak)
 * indoorbot/doorbot w/ [Geoff](https://github.com/RadicalZephyr), [Susan](https://github.com/susinmotion), [Vito](https://github.com/vitosamson)
 * [172 project instructions](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/) + wiki changes 
@@ -67,3 +66,4 @@ I had an amazing time at [Hacker School](https://www.hackerschool.com/). Here ar
 * Ran half of the [largest marathon in the world](http://www.tcsnycmarathon.org/)
 * Amazing Halloween at the [Village Halloween Parade](http://www.halloween-nyc.com/)
 * Started to love Anthony Bourdain
+* [liquid nitrogen chilled drinks](http://momofuku.com/new-york/booker-and-dax/)
