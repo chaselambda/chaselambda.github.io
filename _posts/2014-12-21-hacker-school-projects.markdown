@@ -34,9 +34,8 @@ I had an amazing time at [Hacker School](https://www.hackerschool.com/). Here ar
     * Also learned about Ipython notebooks
     * Went up to ch4 I believe. Need to go back to make sure i understand the subtleties
 * Visited [NYC Resistor](http://www.nycresistor.com/) Hackerspace
-    * Amazingly wonderful. Met Olivia Bar there (great artist!): http://oliviabarr.com/artwork/3495751_Not_A_Camera.html
+    * Amazingly wonderful. Met [Olivia Bar](http://oliviabarr.com/artwork/3495751_Not_A_Camera.html) there (great artist!): 
     * Beagleboard has coprocessors! One project used these to make a massive LED cube
-* Adwords is different from what it used to be
 * bit of python 3 and pyenv
 * Bit of Elixir with Florian
 * topcoder
@@ -47,3 +46,18 @@ I had an amazing time at [Hacker School](https://www.hackerschool.com/). Here ar
 * light dimmers for xmas lights - got shocked :/. W/ [James Keene](https://twitter.com/_jak)
 * indoorbot/doorbot w/ [Geoff](https://github.com/RadicalZephyr), [Susan](https://github.com/susinmotion), [Vito](https://github.com/vitosamson)
 * 172 class + wiki changes (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
+
+# Not Projects
+
+* Museums wow!
+    * Natural History Museum
+    * Brookyln Museum
+    * Brooklyn Botanical Garden
+* And parks!
+    * Central Park
+    * Prospect Park (prob my favorite)
+    * Fort Greene Park (really nice!)
+* [biking](http://www.strava.com/activities/225001542)
+* Ran half of the [largest marathon in the world](http://www.tcsnycmarathon.org/)
+* Amazing Halloween at the [Village Halloween Parade](http://www.halloween-nyc.com/)
+* Started to love Anthony Bourdain
