@@ -10,6 +10,12 @@ Here's a command you can add to your bash alias that allows you to **fuzzy searc
 alias g="new_loc=\$(cat ~/.local/share/autojump/autojump.txt | sort -n | grep -Po '^[^\s]+\s+(\K.*)' | fzf +s -e) && cd \"\$new_loc\""
 ~~~~~
 
+Or on a Mac
+
+~~~~~
+alias g="new_loc=\$(cat ~/Library/autojump/autojump.txt | sort -n | awk '{print \$2}' | fzf +s) && cd \"\$new_loc\""
+~~~~~
+
 This requires both [autojump](https://github.com/joelthelion/autojump) and [fzf](https://github.com/junegunn/fzf) to be installed. Autojump's job here is to keep track of your most visited directories. It saves these entries at `~/.local/share/autojump/autojump.txt` (found by running `j -s`).
 
 We then sort the entries by most popular: `sort -n`
