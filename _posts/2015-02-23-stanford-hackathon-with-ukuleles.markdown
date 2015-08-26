@@ -11,5 +11,7 @@ It certainly has some rough edges. There's no way to choose different songs (we 
 
 The whole experience was massively fun. The thing I most like about our project is that I'm going to use it in the future! Now I just have to obtain a ukulele.
 
+**Update** - I bought a Ukulele!
+
 
 <center><img src="/assets/mage.jpg" width="300" title="Ukendoit team after the hackathon"/></center>
