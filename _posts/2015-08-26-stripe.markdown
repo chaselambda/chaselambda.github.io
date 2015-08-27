@@ -8,25 +8,31 @@ Friday will be my last day at Stripe. Before leaving, I want to write a post I'v
 
 I think working at Stripe is one if the best kept secrets in the tech world.  From the outside, it's easy to think of it as a regular (yet successful) startup. I find that there are a few things that make Stripe particularly wonderful.
 
+*Impact*
 Some of the great features are due to circumstance. The opportunity to have a positive impact on the world is available in spades. Payments are a meta-technology: they help people and companies help others. I find this akin to why Eric Lander likes teaching[0]. Stripe is working to enable any company or individual to take payments from anyone in the world. It's a huge and open vision. As an employee, there are opportunities to make companies/individuals/campaigns more profitable, help them get
 started, enable payments in a new part of the world, help make finances transparent, etc.  There's always something substantial to do.
 
+*Humility and Empathy*
 To say that Stripe is great due to being at the right place at the right time, though, would be misguided.  It's the decisions and values that percolate through the company every day that are at the core of the success. The company holds deep to its heart humility and empathy. Everyone interacts with everyone.  The company is nearly devoid of cliques. I believe this is a very purposefully designed, as I see Patrick and John in particular make every effort to individually talk with everyone. All
 the intermingling that happens makes Stripe feel like an inclusive place to work. And it teaches you a bunch :).
 
+*Remotes*
 These values help engender one of Stripe's secrets - remotes. Many employees work around the world and are really amazing at what they do. Stripe works hard to keep remotes included in conversations happening around the company. While I do sit next to most of my team, nearly all communication is through Slack, email, and Hackpads. Many of these decisions and suggestions are made by the employees in SF, in an effort to help those that are not. That to me is empathy.
 
+*Recruiting*
 Stripe does a great job at recruiting. I'll give you one example of a friend of mine that came to interview. On paper, he doesn't jump off the page. He didn't go to college, and has only worked at a small tech company in New Zealand. Yet, Stripe interviewed and hired him. The thing is, when I first worked with him at a hackathon, he was flat out incredible. He's one of the kindest people I know, and has a mind blowing work ethic. I'm impressed by the diligence Stripe put in to get to know him. I
 think this pulls from Stripe's deep commitment into looking past the cover.
 
+*Transparency*
 You may have heard of Stripe's transparency, and I concur that it is the best idea ever. Nearly every email sent at the company is attached to some internal mailing list somewhere. And much of the non-email communication is in open Slack channels. Everything in Hackpad and Dropbox is also open. So are all the admin, recruiting, and support tools. There's nothing I know of that I can't easily see. I find this does a pretty good job at abating company politics. The openness also gives me a strong
 ability to trust everyone. There's not a single person at Stripe that I don't fully believe trust to do their best work.
 
+*Mas*
 And then, there are things that I just personally love about the company. The large culture of running and health, the alignment employees have with the vision, the tweets, the internal blog, the super thorough decision making, the unrelenting commitment to our users, and a very pleasant technical infrastructure in which to work.
 
 Stripe isn't perfect. It's run into many problems that other companies have done a much better job at. But it's worth watching, as I think it's onto something.
 
-So why am I leaving? The reasons aren't all that interesting or particular to Stripe, but the simplest answer is I want to work on hardware on a small team.  I'll be working on some research and prototyping at Boosted Boards.
+So why am I leaving? The reasons aren't all that interesting or particular to Stripe, but the simplest answer is I'm excited by research and prototyping, which is what I'll soon be doing at [Boosted Boards](http://boostedboards.com/). A Stripe customer, of course!
 
 Thank you Stripe for the wonderful lessons you've taught me. I'll hold them near to my heart.
 
