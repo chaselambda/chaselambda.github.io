@@ -25,6 +25,9 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+.quote-header {
+    font-weight: 500;
+}
 
 // Using media queries with like this:
 // @include media-query($palm) {
