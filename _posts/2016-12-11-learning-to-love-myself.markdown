@@ -32,15 +32,15 @@ This all seems kind, and generally that I have a good relationship with myself. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<span class='quote-header'>Every now and then, something like this would happen</span>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Self: Hey Chase! Do you like me?
+&nbsp;&nbsp;&nbsp;&nbsp;*Self:* Hey Chase! Do you like me?
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Chase: I love your life!
+&nbsp;&nbsp;&nbsp;&nbsp;*Chase:* I love your life!
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Self: Um
+&nbsp;&nbsp;&nbsp;&nbsp;*Self:* Um
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Chase: Yeah, you're so lucky. There's not another life I'd want you to have
+&nbsp;&nbsp;&nbsp;&nbsp;*Chase:* Yeah, you're so lucky. There's not another life I'd want you to have
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Self: Ok
+&nbsp;&nbsp;&nbsp;&nbsp;*Self:* Ok
 
 
 So then, life seemed great, and I didn’t think anything of these interactions. This is how I expected to feel forever, until Netta (my girlfriend) entered, stage left. Only then did I see that I was being harsh to myself. What changed me was getting her to love me for who I was, and not who I was acting or trying to be. This shook everything for me. I didn't know it until then - I was afraid people loved me for the actions I took. After all, what else is observable but my actions? Oddly, I think it's the opposite. I'm not a brilliant actor, and seeing through the facade is pretty simple, it turns out. Netta was the person to care about it, and broke down my barriers I didn’t think I’d ever pull down. She liked me, not the acting me. And she had to keep reminding me again and again.
