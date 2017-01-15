@@ -57,5 +57,3 @@ But I now see it's not settling. I like to compare it to the act of sleeping: it
 
 In contrast, I've learned loving my Self is very healthy. I'm less stressed, and able to be more genuine with people. I’m more confident in myself and compare myself with others less. And overall, I feel like I have more of an ability to achieve my goals. Because, I'm not worried that my Self is good enough. My Self is not a problem. It's loved.
 
-
-And now, here I am. I still have walls. I don't know what they are, but I can't imagine that they're gone. I also now have a permanent stable of self love. Practically speaking, I'm less stressed, and able to be more genuine with people. I’m more confident in myself and compare myself with others less. And overall, I feel like I have more of an ability to achieve my goals. It's because I'm not worried that my Self is good enough. My Self is not a problem. It's loved.
