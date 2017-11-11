@@ -25,7 +25,7 @@ I left my job 2 months ago and I've been exploring the world around me. Here's w
     * Set up a new router
     * Customized my room to hang my skateboard and bike, and installed shelves
     * Our house got 3 new kittens! I try to see them most days. I sometimes just brush my teeth next to them.
-<center><img src="/assets/kittens.JPG" width="600" title="Kittens"/></center>
+<center><img src="/assets/kittens.jpg" width="600" title="Kittens"/></center>
 * Reading a few random magazines, books (I randomly saw a new book by John Krakaur, who's one of my favorite authors. I wasn't interested in getting into the gritty details of Mormon Fundamentalism , but the first 20 pages were fascinating.)
 * Podcasts
     * One about the Stethoscope
