@@ -31,7 +31,7 @@ I left my job 2 months ago and I've been exploring the world around me. Here's w
     * One about the Stethoscope
     * One about how we're almost able to synthesize fake videos and audio of people. That is, we could take a speech by Obama and change what he says. The implications are pretty terrifying.
     * One about the invention of basketball
-    * One about how McDonald's stopped now makes worse french fries
+    * One about how McDonald's changed their french fry recipe in 1990, and now makes worse french fries
 * Writing this blog post!
 * Software Design
     * I've been learning software design principals from a friend of mine in Boston. Most recently, I put together a design case study of a popular open source repository.
