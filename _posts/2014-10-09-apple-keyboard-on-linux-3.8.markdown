@@ -77,7 +77,7 @@ Now unplug the keyboard and plug it back in. The kernel module should automatica
 Neato! Now we actually want to change the 3.8 apple module to include the swap\_opt\_cmd parts.
 
 ### Changing the 3.8 Module to Support swap\_opt\_cmd
-Here’s the [diff](http://chasediscs.com/gists/apple-kernel-support/3.8diff.txt), and here’s the final 3.8 [file](http://chasediscs.com/gists/apple-kernel-support/hid-apple.c) that I used. Now run `make` on that new file in your compilation directory. Then remove the currently installed module and copy yours over:
+Here’s the [diff](http://chaselambda.com/gists/apple-kernel-support/3.8diff.txt), and here’s the final 3.8 [file](http://chaselambda.com/gists/apple-kernel-support/hid-apple.c) that I used. Now run `make` on that new file in your compilation directory. Then remove the currently installed module and copy yours over:
 
 `$ rmmod hid_apple`
 ``$ sudo cp ~/your-compilation-directory/hid-apple.ko  /lib/modules/`(uname -r)`/kernel/drivers/hid/hid-apple.ko``
