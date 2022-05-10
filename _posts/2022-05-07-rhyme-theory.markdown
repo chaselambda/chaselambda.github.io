@@ -46,6 +46,9 @@ Let’s dive in!
 
 Humans are able to make a variety of sounds with their mouths, but the set of sounds is limited. The three variable components are the tongue, lips, and throat. These variations are well studied, and you can find the full set of articulations that exist in human languages at [ipachart.com](https://www.ipachart.com/). You may notice that some sounds are deemed possible to make, but don’t exist in any known language. And then there are sounds that are deemed impossible.
 
+
+<center><img src="/assets/rhyme-theory/ipachart.png" width="600"/></center>
+
 The crazy symbols that you see, like ʌ, ɔ, œ are called phonemes and represent sounds humans make. Symbols like these show up in dictionaries to help readers understand how to pronounce the words. There are a variety of pronunciation tools, but the most widely accepted set is the international phonetics alphabet, or IPA. Another word on transcription: the standard way of indicating the start and end of a phonetic transcription is with slashes. We’ll be using the IPA and slashes in this article.
 
 As an example of how the IPA is used, the word “bear” is transcribed as /bɛər/ for American english. But there’s no single way to spell it, as it depends how a particular accent pronounces the word. Some accents would transcribe “bear” as /bɛə/, dropping the “r” sound.
