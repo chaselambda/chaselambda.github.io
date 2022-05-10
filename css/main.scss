@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: system-ui, Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -41,6 +41,68 @@ $on-laptop:        800px;
         @content;
     }
 }
+
+
+
+.highlight-blue {
+    background: #68A357;
+}
+.highlight-blue_background {
+    background: #FF9F9E;
+}
+.highlight-brown {
+    background: #EEC0C6;
+}
+.highlight-brown_background {
+    background: #9BCDFF;
+}
+.highlight-gray {
+    background: #0091AD;
+}
+.highlight-orange_background {
+    background: #E2AFDE;
+}
+.highlight-purple {
+    background: #FFF8BC;
+}
+.highlight-red_background {
+    background: #DDE1CD;
+}
+.highlight-purple_background {
+    background: #009fb7;
+}
+.highlight-teal {
+    background: #FFC6A3;
+}
+.highlight-teal_background {
+    background: #86E7B8;
+}
+.highlight-yellow {
+    background: #CFBAE1;
+}
+.highlight-gray_background {
+    background: #FFC6A3;
+}
+.highlight-yellow_background {
+    background: #FF7381;
+}
+
+.rap-annotated {
+    white-space: pre-wrap;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+
+.rap-annotated-2 {
+    white-space: pre-wrap;
+}
+
+.rap-author {
+    margin-left: 50px;
+    font-size: 0.8em;
+    color: grey;
+}
+
 
 
 
