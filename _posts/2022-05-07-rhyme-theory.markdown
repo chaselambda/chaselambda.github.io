@@ -88,7 +88,7 @@ Note: I’m lying a bit here. Bell is really pronounced /bɛl/. The /e/ sound do
 
 The “t” is a plosive on the front of the mouth, so these would work well: made, grape, stay, taste, day, date.
 
-# Phonology pt. 2
+# Phonology II
 
 ## Diphthongs
 
