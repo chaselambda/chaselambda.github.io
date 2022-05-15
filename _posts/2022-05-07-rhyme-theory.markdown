@@ -6,7 +6,7 @@ date: 2022-05-07T14:09:48-07:00
 
 Here’s a verse from The Dream Shatterer by Big Pun, where I’ve highlighted some of his rhymes.
 
-<p class='rap-annotated'>Ayo, I <mark class="highlight-purple_background">shatter</mark> <mark class="highlight-teal_background">dreams</mark> like <mark class="highlight-purple">Jordan</mark>, assault and batter your <mark class="highlight-teal_background">team</mark>
+<p class='rap-annotated'>Ayo, I <mark class="highlight-purple_background">shatter</mark> <mark class="highlight-teal_background">dreams</mark> like <mark class="highlight-purple">Jordan</mark>, assault and <mark class="highlight-purple_background">batter</mark> your <mark class="highlight-teal_background">team</mark>
 Your <mark class="highlight-purple">squadron&#x27;ll</mark> be barred from rap
 Like Adam and <mark class="highlight-teal_background">Eve</mark> from the <mark class="highlight-purple">garden</mark>
 I&#x27;m <mark class="highlight-purple">carvin</mark>&#x27; my initials on your <mark class="highlight-yellow">fore</mark><mark class="highlight-orange_background">head</mark>
