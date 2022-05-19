@@ -1,32 +1,30 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
-
-
 
 // Our variables
 $base-font-family: system-ui, Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$base-font-size: 16px;
+$small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit: 30px;
 
-$text-color:       #111;
+$text-color: #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color: #2a7ae2;
 
-$grey-color:       #828282;
+$grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark: darken($grey-color, 25%);
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
+$on-palm: 600px;
+$on-laptop: 800px;
 
 .quote-header {
-    font-weight: 500;
+  font-weight: 500;
 }
 
 // Using media queries with like this:
@@ -37,78 +35,88 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
-
-
 
 .highlight-blue {
-    background: #68A357;
+  background: #68a357;
 }
 .highlight-blue_background {
-    background: #FF9F9E;
+  background: #ff9f9e;
 }
 .highlight-brown {
-    background: #EEC0C6;
+  background: #eec0c6;
 }
 .highlight-brown_background {
-    background: #9BCDFF;
+  background: #9bcdff;
 }
 .highlight-gray {
-    background: #0091AD;
+  background: #0091ad;
 }
 .highlight-orange_background {
-    background: #E2AFDE;
+  background: #e2afde;
 }
 .highlight-purple {
-    background: #FFF8BC;
+  background: #fff8bc;
 }
 .highlight-red_background {
-    background: #DDE1CD;
+  background: #dde1cd;
 }
 .highlight-purple_background {
-    background: #009fb7;
+  background: #009fb7;
 }
 .highlight-teal {
-    background: #FFC6A3;
+  background: #ffc6a3;
 }
 .highlight-teal_background {
-    background: #86E7B8;
+  background: #86e7b8;
 }
 .highlight-yellow {
-    background: #CFBAE1;
+  background: #cfbae1;
 }
 .highlight-gray_background {
-    background: #FFC6A3;
+  background: #ffc6a3;
 }
 .highlight-yellow_background {
-    background: #FF7381;
+  background: #ff7381;
 }
 
 .rap-annotated {
-    white-space: pre-wrap;
-    margin-left: 30px;
-    margin-bottom: 0px;
+  white-space: pre-wrap;
+  margin-left: 30px;
+  margin-bottom: 0px;
 }
 
 .rap-annotated-2 {
-    white-space: pre-wrap;
+  white-space: pre-wrap;
 }
 
 .rap-author {
-    margin-left: 50px;
-    font-size: 0.8em;
-    color: grey;
+  margin-left: 50px;
+  font-size: 0.8em;
+  color: grey;
 }
 
+// Tricky youtube wrapping: https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+  overflow: hidden;
+}
 
-
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import "base", "layout", "syntax-highlighting";

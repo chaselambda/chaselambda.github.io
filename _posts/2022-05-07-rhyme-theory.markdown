@@ -36,8 +36,8 @@ He makes them rhyme though, [I promise](https://youtu.be/8rX7ekd5OX0?t=7).
 
 The components of rhyming seem oddly elusive. Here’s Eminem [rhyming with orange](https://www.youtube.com/watch?v=_kQBVneC30o) in a 60 minutes interview, a word that isn’t traditionally considered rhymable. His rhymes are great, but his description of how to match words is quite disappointing. He first suggests that you should make “orange” “more than one syllable” (it already is), that you have to “figure out the science to breaking down words”, and that rhyming is “just in the enunciation”. But what is that science? When, where, and how should you enunciate?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_kQBVneC30o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class='video-container'><iframe src="https://www.youtube.com/embed/_kQBVneC30o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 This post will be most useful to those that are interested in rap, because rhyming has a much more central role in the art. But even those that are not aspiring professional or even casual artists may find this valuable. They will learn about general topics of human-made sounds, and also perhaps grow a better appreciation for songs and lyrics, just like understanding the movie making process builds appreciation for movies.
 
 Let’s dive in!
