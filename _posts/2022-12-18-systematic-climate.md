@@ -64,7 +64,14 @@ These are of course highly tuned to my own preferences. And I also don’t neces
 
 To speed up the rating process, I need a quick way to remember these factors. I picked the acronym GIDE: GHGs, Inspired, Day to day work, Effectiveness. For each factor, I rate it out of 5.
 
-Let’s go through some examples.
+## Examples
+Before digging into some examples, I want to explicitly point out their limitations:
+- They're highly personalized to me.
+- They're quick, gut guesses.
+- I don't explain all the details of how I came to that guess.
+
+The reason I write these examples down is simply for illustrative puposes, and not to say anything meaningful outside of my own head. You might even notice that the company that's ostensibly far more successful (way more funding, more established team, has actually made an impact, etc, etc) has a lower rating than the other. This *definitely* doesn't mean that I think it's less worthy of a company to exist, or to work for. But it does illuminate something surprising: the underdog
+company has more positives than I think I would have otherwise realized.
 
 [https://dandelionenergy.com/](https://dandelionenergy.com/) — GIDE=4,4,3,2=13/20
 
@@ -73,13 +80,14 @@ Let’s go through some examples.
 - Day to day work: After talking to someone there, I don’t forsee the technical problems being particularly challenging. It seems more operation-heavy software, which involves shipping lots of small, effective, changes quickly. I think I’ll have some interesting opportunities to learn about regulations, contractor businesses, govt contracts, etc. In general, I don’t know much about this field, while it seems the the company has lots of deep expertises.
 - Effectiveness: 2/5. This one was interesting. The size of the company is large, which would often mean good things. But from what I can glean, the company has had and will continue to have many significant hurdles. I won’t go into detail, but my confidence that they’ll actually succeed is unfortunately low.
 
-[https://ambri.com/](https://ambri.com/) — GIDE=5,5,4?,1 = 25/30
+[https://ambri.com/](https://ambri.com/) — GIDE=5,5,4?,1 = 15/20
 
 - GHGs: battery storage is a huge and expensive problem for transitioning the grid away from fossil fuels. 5/5
 - Inspired: chemistry is cool (I know little about). Big shipping-container-sized batteries probably have all manner of cool things about them. 5/5
 - Day to day work: I’m not sure. I bet since the company is small there’d be lots of things I could contribute to that I’d feel proud of. The work is probably not very challenging, but I could imagine I might learn some cool things about chemistry and working with past researchers. 4?/5 (the notation here means a 4, but with higher than usual variance)
 - Effectiveness: 1/5 :(. This company has been running for 13 years, and still hasn’t shipped anything. They say they’re now planning on 2023. I have some weak guess 4 years ago they were also saying things were right around the corner. Failing to ship something for that long is *really* worrying. I have never heard of a company that’s existed that long without shipping that turned out to be successful. Please enlighten me with counter examples :).
 
-I’ll go reach out to Ambri to double check my suspicions. If they flip my effectiveness rating, this could be really compelling company to work for.
+I’ll see if I can talk to someone at Ambri to double check my suspicions. If they flip my effectiveness rating, this could be really compelling company to work for.
 
+## Closing Thoughts
 I have one guess about the outcome of this exercise: I’ll find that every company will rank quite low in one of these metrics. And I may ultimately feel that the climate industry isn’t the right fit for me. In a sense, this rating system may just give me an excuse to not work on climate. I’ll have a cute list of dozens of companies, where I’ve diligently rated them one by one, and found that none of them are a good fit. And then I’ll conversely rate traditional tech companies and find that my ratings will be higher. And with these pairs of ratings, will concede that the most effective thing I can do is donate money, instead of working directly in the field. In some sense, this is a “risk” involved in this exercise. But I’m generally open minded enough that I only expect this will be my conclusion if it has a significant amount of truth to it.
