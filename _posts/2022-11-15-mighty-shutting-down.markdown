@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mighty Retrospective"
-date: 2022-10-28T14:09:00-07:00
+date: 2022-11-15T14:09:00-07:00
 ---
 
 This past Sunday, we announced that [Mighty](https://web.archive.org/web/20220903024816/https://www.mightyapp.com/) is shutting down. I’ve been working on it since its infancy -- before we pivoted to even making a browser at all. I want to spend some time talking about why we built Mighty in the first place, and why we weren’t able to ultimately achieve those goals. This is essentially a case study on a topic I’ve been intimately close to over the past 3.5 years.
