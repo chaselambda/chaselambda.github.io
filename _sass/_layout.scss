@@ -16,11 +16,12 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: white;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+    // &,
+    // &:visited {
+    //     color: $grey-color-dark;
+    // }
 }
 
 .site-nav {

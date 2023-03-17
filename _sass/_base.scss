@@ -92,12 +92,12 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+    // &:visited {
+    //     color: darken($brand-color, 5%);
+    // }
 
     &:hover {
-        color: $text-color;
+        // color: $text-color;
         text-decoration: underline;
     }
 }
@@ -130,7 +130,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #424242;
 }
 
 code {
