@@ -18,7 +18,7 @@ There were a few more key laws that were influenced by energy security, decreasi
 - The National Energy Policy Act, passed in 1992, established the Federal Energy Regulatory Commission (FERC), granting it the power to regulate state electric industries.
 - FERC issued Order 888 in 1996, requiring transmission companies to provide energy generators with equal access to the grid. This order aimed to establish a truly competitive market for power generation, recognizing that it did not necessarily need to be monopolized.
 - Order 2000, issued in 1999, advanced energy deregulation by creating Regional Transmission Organizations (RTOs, which are essentially the same as ISOs). These nonprofit entities facilitated the buying and selling of electricity across regions, making it easier for market participants to trade energy. RTOs replaced state operation and control over the transmission grid, streamlining the process and increasing efficiency.
-- In 2005, President George W. Bush signed the Energy Policy Act, which transferred the regulation of utilities from the Securities and Exchange Commission to FERC. This transfer further consolidated FERC's role in overseeing the evolving electric grid and its transition towards a more competitive marketplace. This also repealed and replace the PUHCA of 1935.
+- In 2005, President Bush signed the Energy Policy Act, which transferred the regulation of utilities from the Securities and Exchange Commission to FERC. This transfer further consolidated FERC's role in overseeing the evolving electric grid and its transition towards a more competitive marketplace. This also repealed and replace the PUHCA of 1935.
 
 # The Current Status 
 ## Vocab
