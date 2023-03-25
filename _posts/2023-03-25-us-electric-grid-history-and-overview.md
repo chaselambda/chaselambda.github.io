@@ -15,11 +15,13 @@ Despite these efforts, holding companies that owned multiple utility companies w
 ## Deregulation
 This system remained remarkably stable until the 1970s energy crisis, during which energy prices soared. To reduce these costs, focus was put on fostering competition and limiting monopolies in the energy sector. The first main step was to The Public Utility Regulatory Policies Act (PURPA) of 1978. This required that utility companies buy energy from independent energy generators at the utility's "avoided cost" rate, which is the cost the utility would have incurred to generate the power itself or purchase it from another source.
 
-There were a few more key laws that were influenced by energy security, decreasing prices, environmental concerns, and technological advancements:
+There were a few more key laws that intended to drive energy security, decreasing prices, environmental concerns, and technological advancements:
 - The National Energy Policy Act, passed in 1992, established the Federal Energy Regulatory Commission (FERC), granting it the power to regulate state electric industries.
 - FERC issued Order 888 in 1996, requiring transmission companies to provide energy generators with equal access to the grid. This order aimed to establish a truly competitive market for power generation, recognizing that it did not necessarily need to be monopolized.
 - Order 2000, issued in 1999, advanced energy deregulation by creating Regional Transmission Organizations (RTOs, which are essentially the same as ISOs). These nonprofit entities facilitated the buying and selling of electricity across regions, making it easier for market participants to trade energy. RTOs replaced state operation and control over the transmission grid, streamlining the process and increasing efficiency.
 - In 2005, President Bush signed the Energy Policy Act, which transferred the regulation of utilities from the Securities and Exchange Commission to FERC. This transfer further consolidated FERC's role in overseeing the evolving electric grid and its transition towards a more competitive marketplace. This also repealed and replace the PUHCA of 1935.
+
+The "deregulation" is somewhat confusing because there's still lots of regulation. The largest component of this arc is that power plant companies are now separate entities that have lots of flexibility in how they spend their money and how they charge customers. The generation and transmission segments are still tightly regulated, and can't even spend their own money without agreement from the government. But there are other forms of reducing regulation, like allowing companies to own utilities in multiple states.
 
 # Utilities Today
 ## Vocab
@@ -36,7 +38,6 @@ More vocab:
 - Wholesale Market: The wholesale market refers to the buying and selling of electricity between generators, utilities, and other market participants before it is delivered to end-users. This is typically managed by ISOs or RTOs to ensure fair competition, grid reliability, and efficient market operations.
 - Public/State Utility Commissions: PUCs are state-level regulatory bodies that oversee the operations of utility companies.
 - Energy Supplier: An energy supplier is a company that generates and/or purchases energy to sell to consumers. In deregulated markets, customers can choose an energy supplier based on factors such as price, contract length, and renewable energy content. Interestingly, energy suppliers may simply be middlemen - they buy from power plants, and sell to customers, without owning their own infrastructure.
-- "Deregulated": This is referring specifically to the generation segment being deregulated. These companies have lots of flexibility in how they spend their money and how they charge customers. The generation and transmission segments are still regulated.
 
 ## Incentives of Regulated Utilities
 In the regulated electric utility industry, companies are subject to a capped profit margin based on a percentage of their total expenditures. This system, known as the "rate of return" regulation, is designed to ensure that utilities can recover their costs and earn a fair return on their investments without overcharging consumers.
