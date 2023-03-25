@@ -4,6 +4,7 @@ date: 2023-03-25T00:52:50.144Z
 ---
 *Disclosure: I had help writing parts of this article with ChatGPT. I think it's nontheless an interesting and quick read.*
 
+# Quick History
 ## Regulation Begins
 Up until the early 20th century, the electric grid was largely unregulated, with companies jockeying for control and market share. Drawing comparisons to the railroad industry, the public was worried that utilities would soon charge exorbitant prices. In response to these concerns, many cities began establishing their own electric companies, with the aim of returning any excess profits to their citizens. However, the prevailing attitude at the time was against granting too much power to the government, due to fears of corruption and the erosion of traditional American values.
 
@@ -20,7 +21,7 @@ There were a few more key laws that were influenced by energy security, decreasi
 - Order 2000, issued in 1999, advanced energy deregulation by creating Regional Transmission Organizations (RTOs, which are essentially the same as ISOs). These nonprofit entities facilitated the buying and selling of electricity across regions, making it easier for market participants to trade energy. RTOs replaced state operation and control over the transmission grid, streamlining the process and increasing efficiency.
 - In 2005, President Bush signed the Energy Policy Act, which transferred the regulation of utilities from the Securities and Exchange Commission to FERC. This transfer further consolidated FERC's role in overseeing the evolving electric grid and its transition towards a more competitive marketplace. This also repealed and replace the PUHCA of 1935.
 
-# The Current Status 
+# Utilities Today
 ## Vocab
 I find knowing the vocabulary of a field can be really illuminating as to the inner workings of the field. The utility industry can be broadly divided into three primary segments, each which owns particular infrastructure:
 
