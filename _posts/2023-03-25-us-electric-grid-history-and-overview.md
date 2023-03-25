@@ -1,5 +1,5 @@
 ---
-title: "US Electric grid: History and Overview"
+title: "US Electric Grid: History and Overview"
 date: 2023-03-25T00:52:50.144Z
 ---
 *Disclosure: I had help writing parts of this article with ChatGPT. I think it's nontheless an interesting and quick read.*
