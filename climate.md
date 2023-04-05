@@ -31,6 +31,7 @@ I also have many **specific questions**. Here are a few to give you some flavor:
 - The forestry climate initiatives seem very fragmented. What’s going on? What are the biggest challenges this industry faces? What are some of the most promising organizations? What’s a reasonable $/ton co2e for planting trees and keeping them thriving?
 - With respect to residential and commercial buildings in the US, it seems the predominant way to decarbonize this sector is through policy. I’ve seen many creative solutions to this problem but their largely solving the long-tail problems.
 - What are some of the most promising international decarbonization initiatives? I’ve mainly focused on the US in my research.
+- A typical way to advocate for a policy is by contacting a representative's office, where their secretary records your stance. How effective is this approach, what importance do politicians assign to it, and why aren't there more advanced methods for collecting constituent opinions?
 
 
 **FAQ**
