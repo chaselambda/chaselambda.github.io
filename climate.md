@@ -1,7 +1,7 @@
 ---
 layout: page
 # title: Climate Chats
-permalink: /climate/
+permalink: /climate-chats/
 ---
 <div class='climate-subtitle'>April, 2023</div>
 <div class='climate-title'>Climate Chats</div>
