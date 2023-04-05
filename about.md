@@ -4,6 +4,9 @@ title: More about Chase
 permalink: /about/
 ---
 
+<div class='center-pic'>
+<img src='/assets/chase-uke.webp' width="300px">
+</div>
 ## Career
 My [Linkedin](https://github.com/theicfire) has the most up to date info about me.
 
