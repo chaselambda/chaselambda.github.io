@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Leaving Playground"
+title: Leaving Playground
 date: 2023-01-31T05:09:48-07:00
 ---
 
-January 20th was my last day working at Playground. The decision to leave was challenging because of the many great aspects of the company, some of which I’ll briefly touch on below. I ultimately realized that this was about the best possible time to transition, because Mighty had just shut down and Playground was at the start of a long journey. I wanted to be able to commit to the project for years into the future, but I’ve been hoping to work on more directly impactful work for some time now and decided to go in that direction.
+January 20th was my last day working at [Playground](https://playgroundai.com/). The decision to leave was challenging because of the many great aspects of the company, some of which I’ll briefly touch on below. I ultimately realized that this was about the best possible time to transition, because Mighty had just shut down and Playground was at the start of a long journey. I wanted to be able to commit to the project for years into the future, but I’ve been hoping to work on more directly impactful work for some time now and decided to go in that direction.
 
 ## The Promise of Playground
 
