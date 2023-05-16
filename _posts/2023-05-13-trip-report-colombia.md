@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Trip Report: Colombia"
 date: 2023-05-13T01:19:36.317Z
 ---
@@ -102,3 +103,22 @@ The highlight of Medellin was not Medellin itself, but a 4ish hour drive away.
 ## Suesca
 
 Suesca is a climbing destination located just an hour's drive north of Bogota. It offers an incredible set of rocks to climb. Check out this [helpful guide](https://www.thewanderingclimber.com/suesca-climbing-guide/) for more information. If you're curious about Suesca, feel free to ask me! You can rent equipment and buy a guidebook in town. Both sport and traditional climbing are available.
+
+# Photos/Videos!
+<div class='image-list'>
+<img src='/assets/colombia/p1_small.jpg'/>
+<img src='/assets/colombia/p2_small.jpg'/>
+<img src='/assets/colombia/p3_small.jpg'/>
+<img src='/assets/colombia/p4_small.jpg'/>
+<img src='/assets/colombia/p5_small.jpg'/>
+<img src='/assets/colombia/p6_small.jpg'/>
+<img src='/assets/colombia/p7_small.jpg'/>
+<img src='/assets/colombia/p9_small.jpg'/>
+<img src='/assets/colombia/p10_small.jpg'/>
+<img src='/assets/colombia/p11_small.jpg'/>
+<img src='/assets/colombia/p12_small.jpg'/>
+<img src='/assets/colombia/p13_small.jpg'/>
+<img src='/assets/colombia/p14_small.jpg'/>
+<img src='/assets/colombia/p15_small.jpg'/>
+<img src='/assets/colombia/p16_small.jpg'/>
+</div>

@@ -13,7 +13,7 @@ $base-line-height: 1.5;
 $spacing-unit: 30px;
 
 $text-color: white;
-$background-color: #2E2E2E;
+$background-color: #2e2e2e;
 $brand-color: #b6bdff;
 
 $grey-color: #828282;
@@ -128,9 +128,9 @@ $on-laptop: 800px;
   display: flex;
   justify-content: center;
   font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-    font-weight: 300;
+  letter-spacing: -1px;
+  line-height: 1;
+  font-weight: 300;
 }
 
 .climate-subtitle {
@@ -147,6 +147,40 @@ $on-laptop: 800px;
   font-size: 14px;
   font-style: italic;
   color: #bbb;
+}
+
+/* Style for the overlay */
+#overlay {
+  position: fixed; /* Positioning relative to the viewport */
+  top: 0;
+  left: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  z-index: 1000; /* Overlay should be on top of other content */
+  display: flex; /* Using flexbox for centering the image */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background: rgba(0, 0, 0, 0.8); /* Semi-transparent black background */
+  padding: 20px; /* Padding around the edges */
+  box-sizing: border-box; /* Include padding and border in element's total width and height */
+}
+
+/* Style for the image inside the overlay */
+#overlay img {
+  max-width: 100%; /* Image should not overflow the overlay */
+  max-height: 100%; /* Image should not overflow the overlay */
+  object-fit: contain; /* Image should maintain its aspect ratio */
+  margin: auto; /* Margins for centering */
+}
+
+.image-list {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.image-list > img {
+  margin: 5px;
+  cursor: pointer;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

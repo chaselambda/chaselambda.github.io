@@ -57,7 +57,7 @@ One that stood out to me was Owen’s Valley. Here’s a sense of how many great
 
 Here’s a quick map:
 
-![Map of Owen's Valley](/assets/owens-valley/map.png)
+![Map of Owen's Valley](/assets/owens-valley/map.jpg)
 
 The most surprising thing was that there ended up being a storm over the Western mountains. That was precisely the time we were biking up Onion Valley Road. The wind picked up gradually as we gained elevation, to the point that the gusts were easily exceeding 50mph. That was certainly the windiest conditions I’ve ever biked in, and likely the windiest situation I’ve been in at all.
 
@@ -79,18 +79,15 @@ In the end, we only got to do two out of the three rides I was hoping for, but t
 
 # Photos/Videos!
 
-![Untitled](/assets/owens-valley/p1.png)
-
-![Untitled](/assets/owens-valley/p2.png)
-
-![Untitled](/assets/owens-valley/p3.png)
-
-![Untitled](/assets/owens-valley/p4.png)
-
-![Untitled](/assets/owens-valley/p5.png)
-
-![Untitled](/assets/owens-valley/p6.png)
-
-![Untitled](/assets/owens-valley/p7.png)
+<div class='image-list'>
+<img src='/assets/owens-valley/p1_small.jpg'/>
+<img src='/assets/owens-valley/p2_small.jpg'/>
+<img src='/assets/owens-valley/p3_small.jpg'/>
+<img src='/assets/owens-valley/p4_small.jpg'/>
+<img src='/assets/owens-valley/p5_small.jpg'/>
+<img src='/assets/owens-valley/p6_small.jpg'/>
+<img src='/assets/owens-valley/p7_small.jpg'/>
+<img src='/assets/owens-valley/p8_small.jpg'/>
+</div>
 
 [Video of me being stoked](https://photos.app.goo.gl/tJR7XUAzpunMRFhi7)
