@@ -69,8 +69,8 @@ The highlight of Medellin was not Medellin itself, but a 4ish hour drive away.
 - Cyclovia
     - Every Sunday, 70+ miles of road are closed to cars. It turns out that Bogota has been running this far longer than most other places, running this regularly since the 90s! The city comes alive with hundreds of thousands of people taking advantage of these closed roads running, biking, and roller skating. There’s also a famous hill climb called “Patios” where thousands of people ride up, especially on Sundays.
     - Related links:
-        - [https://www.atlasobscura.com/places/la-ciclovia-de-bogota](https://www.atlasobscura.com/places/la-ciclovia-de-bogota)
-        - [https://www.google.com/maps/d/u/0/viewer?mid=1JCG62OamtbmTF8pljpiqT_7mQqc&hl=en&ll=4.627671868940446%2C-74.13230899999999&z=12](https://www.google.com/maps/d/u/0/viewer?mid=1JCG62OamtbmTF8pljpiqT_7mQqc&hl=en&ll=4.627671868940446%2C-74.13230899999999&z=12)
+        - [Atlas Obscura](https://www.atlasobscura.com/places/la-ciclovia-de-bogota)
+        - [Cyclovia Map](https://www.google.com/maps/d/u/0/viewer?mid=1JCG62OamtbmTF8pljpiqT_7mQqc&hl=en&ll=4.627671868940446%2C-74.13230899999999&z=12)
         - [Colombian Road Heights](https://www.colombianroadheights.com/) rented me a nice bike for ~$50 USD per day
             - They also have a map of some [solid bike routes](https://www.colombianroadheights.com/_files/ugd/1d4b54_4c23b90682e745d3a3b979edf35a61bc.pdf)
             - They’ll even deliver it. I’m a huge fan. They also have a cafe ~1.5hr biking distance from Bogota where many of the great climbs are.
@@ -78,10 +78,10 @@ The highlight of Medellin was not Medellin itself, but a 4ish hour drive away.
     - I love long staircases and the Monserrate staircase is particularly incredible. It’s probably the longest staircase I’ve ever climbed, and there are some incredible views at the top. You can take a Gondola (or train) back down to the start so that you don’t have to kill your knees on the way down. You can also use it on the way up if you just want some great views.
     - There’s an even higher peak called Guadalupe peak, but Monserrate is already sufficiently high that I wouldn’t say Guadalupe is any better. And you’ll need some sort of taxi to get up to Guadalupe. You may want to have a plan for getting a ride down — the three of us that went up there didn’t have cell phone service and had to walk all the way down. Some taxis will be willing to wait for you at the top, for ~$20 USD (expensive for Colombia)
 - Breaking Borders tour
-    - [https://www.tripadvisor.com/Attraction_Review-g294074-d15014044-Reviews-Breaking_Borders-Bogota.html](https://www.tripadvisor.com/Attraction_Review-g294074-d15014044-Reviews-Breaking_Borders-Bogota.html)
+    - [Tripadvisor Link](https://www.tripadvisor.com/Attraction_Review-g294074-d15014044-Reviews-Breaking_Borders-Bogota.html)
     - You can get a tour of one of the poorer Barrios (neighborhoods) from community members that are working to make improve the place. One of the tour guides even showed us into her house, which was really nice of her. It was only in Spanish, but they do have translators they can bring.
 - Walking tour, focused on history
-    - [https://www.beyondcolombia.com/bogota?locale=en](https://www.beyondcolombia.com/bogota?locale=en)
+    - [Beyond Colombia Tour](https://www.beyondcolombia.com/bogota?locale=en)
     - I loved this tour. It was in the city center / Candelaria / old town, and really gave me some good context about Colombian history. I took quite a few notes if you’d like to see them.
 - Chicha
     - Our walking tour guide took us to the District Market Square in La Concordia, where he said that the best Chicha is sold. Given that Chicha is technically illegal, it’s not well regulated, and so you need to know the right places to buy it. Most Chicha has some fruit additives, but this place is entirely natural.
