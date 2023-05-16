@@ -21,7 +21,7 @@ function registerKeyEvents() {
   // When the user presses the escape key, remove the overlay container
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") {
-      overlayContainer.style.display = "none";
+      exitOverlay();
     }
 
     if (event.key === "ArrowRight") {
@@ -30,7 +30,7 @@ function registerKeyEvents() {
       }
       const nextImage = currentThumb.nextElementSibling;
       if (nextImage) {
-        expandThumbnail(nextImage);
+        openOverlay(nextImage);
       }
     }
 
@@ -40,15 +40,32 @@ function registerKeyEvents() {
       }
       const nextImage = currentThumb.previousElementSibling;
       if (nextImage) {
-        expandThumbnail(nextImage);
+        openOverlay(nextImage);
       }
     }
   });
 }
 
-function expandThumbnail(thumbnail) {
+function disableScroll() {
+  document.body.style.overflow = "hidden";
+}
+
+function enableScroll() {
+  document.body.style.overflow = "auto";
+}
+
+function exitOverlay() {
+  const overlayContainer = document.getElementById("overlay");
+  overlayContainer.style.display = "none";
+  currentThumb = null;
+  enableScroll();
+}
+
+function openOverlay(thumbnail) {
+  disableScroll();
+
   currentThumb = thumbnail;
-  let overlayContainer = document.getElementById("overlay");
+  const overlayContainer = document.getElementById("overlay");
 
   // Create a larger image element
   const largeImage = document.createElement("img");
@@ -72,13 +89,13 @@ function enableImagePopup(thumbnailContainer) {
         document.querySelector("body").prepend(overlayContainer);
 
         overlayContainer.addEventListener("click", (event) => {
-          overlayContainer.style.display = "none";
+          exitOverlay();
         });
         registerKeyEvents();
       }
 
       overlayContainer.style.display = "flex";
-      expandThumbnail(thumbnail);
+      openOverlay(thumbnail);
     });
   });
 }
@@ -139,4 +156,8 @@ window.addEventListener("load", () => {
   const container = document.querySelector(".image-list");
   resizeImagesToEvenGrid(container);
   enableImagePopup(container);
+
+  window.addEventListener("resize", () => {
+    resizeImagesToEvenGrid(container);
+  });
 });
