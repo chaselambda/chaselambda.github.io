@@ -8,7 +8,7 @@ permalink: /about/
 <img src='/assets/chase-uke.webp' width="300px">
 </div>
 ## Career
-My [Linkedin](https://github.com/theicfire) has the most up to date info about me.
+My [Linkedin](https://www.linkedin.com/in/chaselambda/) has the most up to date info about me.
 
 <!--## Geography Trotting-->
 <!--My family is from South Africa, which is where I lived until moving to the US around the age of 5. After staying in Minnesota for a year, my family moved to Austin. I then moved to Boston for 4 years, after which I moved to Palo Alto. I spent about 8 years there and now live in San Francisco.-->
