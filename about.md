@@ -60,7 +60,7 @@ I’ve lived in many excellent communities during and after college. I’ve neve
 
 - I currently live in the San Francisco, California
 - I write pretty extensively. I’ve been writing in my [Workflowy](https://workflowy.com/) document almost every day since 2012, and also write tons in Google Docs for work.
-- I’m an optimist. [https://www.worksinprogress.co/](https://www.worksinprogress.co) is a good representation of what I mean by this.
+- I’m an optimist. [https://www.worksinprogress.co](https://www.worksinprogress.co) is a good representation of what I mean by this.
 
 ## Links
 - [Contact Me](/contact)
