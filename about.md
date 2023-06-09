@@ -17,6 +17,8 @@ My [Linkedin](https://www.linkedin.com/in/chaselambda/) has the most up to date 
 
 I love building little projects. Some examples:
 
+
+- [Tioga Road Newsletter](https://istiogaopen.com/)
 - [Bike Trailer](https://www.instructables.com/Bike-Trailer-for-Towing-Adults/)
 - [Water Fountain](https://www.instructables.com/Teapot-and-Mason-Jar-Fountain/)
 - [A regex searcher for logs](https://github.com/theicfire/logregex)
@@ -34,8 +36,8 @@ I really enjoy teaching. I’ve taught high school and college classes in [Ghana
 
 I sometimes publish my notes as I’m learning:
 
-- [https://makefiletutorial.com/](https://makefiletutorial.com/)
-- [https://vimsheet.com/](https://vimsheet.com/)
+- [Makefile Tutorial](https://makefiletutorial.com/)
+- [Vim Cheatsheet](https://vimsheet.com/)
 - [Spark Core Musings](https://workflowy.com/s/3xNEHQiNHX)
 - [OS and Python Multitasking](https://workflowy.com/s/gjCtxehupm).
 - I contribute to [Stackoverflow](https://stackoverflow.com/users/1394731/theicfire) when I remember
@@ -58,12 +60,12 @@ I’ve lived in many excellent communities during and after college. I’ve neve
 
 - I currently live in the San Francisco, California
 - I write pretty extensively. I’ve been writing in my [Workflowy](https://workflowy.com/) document almost every day since 2012, and also write tons in Google Docs for work.
-- I’m an optimist. [https://www.worksinprogress.co/](https://www.worksinprogress.co/) is a good representation of what I mean by this.
+- I’m an optimist. [https://www.worksinprogress.co/](https://www.worksinprogress.co) is a good representation of what I mean by this.
 
 ## Links
 - [Contact Me](/contact)
-- [https://github.com/theicfire](https://github.com/theicfire)
-- [https://www.linkedin.com/in/chaselambda/](https://www.linkedin.com/in/chaselambda/)
-- [https://twitter.com/chaselambda](https://twitter.com/chaselambda)
-- [https://www.couchsurfing.com/people/theicfire](https://www.couchsurfing.com/people/theicfire)
-- [https://www.facebook.com/chaselambda](https://www.facebook.com/chaselambda)
+- [Github](https://github.com/theicfire)
+- [Linkedin](https://www.linkedin.com/in/chaselambda/)
+- [Twitter](https://twitter.com/chaselambda)
+- [Couchsurfing Profile](https://www.couchsurfing.com/people/theicfire)
+- [Facebook](https://www.facebook.com/chaselambda)
