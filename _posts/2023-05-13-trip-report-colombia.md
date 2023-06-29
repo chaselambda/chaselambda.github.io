@@ -19,13 +19,13 @@ We took one domestic flight and visited 4 cities: Medellin, Jardin, Bogota, and 
 
 We turned out to be very similar in our interests, chillness, and interest in adventures. There’s something very special about being able to travel with others so effectively — I’m happy how well this group worked out.
 
-## Medellin
+# Medellin
 
 Medellin is a gorgeous city. The main areas of the city sit in a valley with mountains flanking both sides. A short, beautiful, gondola ride up into these hills (both East and West) will give you some stunning views. Medellin is also incredibly lush given the temperate weather and decent rainfall, and the wealthier neighborhoods are filled with plants on their balconies.
 
 The people are outstandingly kind and friendly. We went during the peak rainy season (late April), and despite a weather forecast of rain every single day, it only drizzled. Anecdotally I’ve heard that the rain comes in fits and starts, so even during a rainy day you can often just wait it out for half an hour. But you might as well not go in April/May in case I’m wrong about this.
 
-### Recommendations
+## Recommendations
 
 I didn’t go to any museums. I also heard that [https://realcitytours.com/](https://realcitytours.com/) has some good walking tours, which I wish I had time to go to. But of the things that I did go to, I loved:
 
@@ -45,13 +45,13 @@ I didn’t go to any museums. I also heard that [https://realcitytours.com/](htt
     - You can rent bikes or horses in this park. I think the bikes are only for the roads though, but it still seems like some solid fun.
 - I loved the markets in Mexico City, and it turns out there are also several in Medellin and Bogota. Though I didn’t go to any in Medellin, [this guide](https://theculturetrip.com/south-america/colombia/articles/the-best-markets-in-medellin-colombia/) seems good.
 
-## Jardin + Cerra Tusa (driving distance from Medellin)
+# Jardin and Cerro Tusa
 
 The highlight of Medellin was not Medellin itself, but a 4ish hour drive away.
 
-### Recommendations
+## Recommendations
 
-- Cerra Tusa
+- Cerro Tusa
     - This is halfway between Medellin and Jardin (below). It’s an incredibly steep and tough hike which involved us scooting down on our butts on the way down for safety (in the lightning and rain too!). But the top is unbelievable .. a tiny 200 sq ft flat top, with incredible views and sharp drops on every side.
 - Waterfalls (Cascada del Amor is walking distance from downtown, but there are other ones on bigger hikes)
 - Mirador la Herrerita
@@ -62,9 +62,9 @@ The highlight of Medellin was not Medellin itself, but a 4ish hour drive away.
     - We booked a random coffee tour in downtown Jardin. I think they partner with several coffee farmers and pair you with the ones that are available at the time. The one we went to was called Vascafé (it’s on google maps). You can probably just directly book with them by sending them a message. The tour was really excellent. They are a small farm with revenues of <$10k USD/year, and they sell to Nescafe. Note that it’s all in Spanish, though.
 - Walking around downtown and the plaza were also nice. At night, there’s lots of dancing, and during the day there’s lots of flowers and exceptional cafes.
 
-## Bogota
+# Bogota
 
-### Recommendations
+## Recommendations
 
 - Cyclovia
     - Every Sunday, 70+ miles of road are closed to cars. It turns out that Bogota has been running this far longer than most other places, running this regularly since the 90s! The city comes alive with hundreds of thousands of people taking advantage of these closed roads running, biking, and roller skating. There’s also a famous hill climb called “Patios” where thousands of people ride up, especially on Sundays.
@@ -93,14 +93,14 @@ The highlight of Medellin was not Medellin itself, but a 4ish hour drive away.
     - Colombia plays a social/party sport called Tejo, where you throw a rock (called a Tejo) at a target that has some exploding gunpowder targets. I recommend looking up a bar that has Tejo and playing.
 - I briefly stopped by Parque 93. It’s a very hip/upscale neighborhood, but I found it to be too much so. It seems the main thing to do is simply buy and eat things, as it’s very commercial. I’ve heard many people like it though, and given how little time I spent there, you should hold some skepticism for my anti-recommendation.
 
-### Other ideas on things to do
+## Other ideas on things to do
 
 - Visit a nearby [Páramo ecosystem](https://en.wikipedia.org/wiki/P%C3%A1ramo)
     - This is a special high-altitude ecosystem that only exists in the Andes. My walking tour guide strongly recommended visiting it.
 - Some huge night clubs
 - La Chorrera and Chiflon waterfalls
 
-## Suesca
+# Suesca
 
 Suesca is a climbing destination located just an hour's drive north of Bogota. It offers an incredible set of rocks to climb. Check out this [helpful guide](https://www.thewanderingclimber.com/suesca-climbing-guide/) for more information. If you're curious about Suesca, feel free to ask me! You can rent equipment and buy a guidebook in town. Both sport and traditional climbing are available.
 

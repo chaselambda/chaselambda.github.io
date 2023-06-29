@@ -73,7 +73,7 @@ Here’s a quick and rough guide on how to find a word that rhymes with another 
     - All nasals match (m, n, ng)
     - Some plosives (p, b, d, t) along with some fricatives (s). The front top of your mouth.
     - Other plosives (k, g). The back of your mouth.
-    - Ch, sh
+    - Ch, j, sh
     - Some don’t match too well (sh, f, z, v, l, r)
     - If the vowel sound is at the end, that works for anything
 
