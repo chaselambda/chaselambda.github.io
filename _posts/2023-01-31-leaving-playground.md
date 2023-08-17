@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaving Playground
+title: I'm Leaving Playground to Explore Climate
 date: 2023-01-31T05:09:48-07:00
 ---
 
