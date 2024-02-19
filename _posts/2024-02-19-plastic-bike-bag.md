@@ -32,7 +32,6 @@ The benefits of a normal bike bag:
 
 - The bike bag is not transparent (which makes people dubious in the first place)
 - The bike bag is more durable/not as tearable
-- The bike bag has a shoulder strap
 - The bike bag is “designed for bikes”, which makes it pass the technicalities of United’s rules
 
 The bag I used is a  5 Mil plastic bag (decently thick) designed to cover a twin mattress:
