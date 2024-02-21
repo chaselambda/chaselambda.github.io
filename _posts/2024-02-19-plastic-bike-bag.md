@@ -56,3 +56,5 @@ While this worked out great, I’d only recommend it in very specific cases. I w
 
 In most cases I’d recommend a cheap, soft, bike bag along with some padding attached to the right places on the bike. Or a hard shell if you're willing to deal with the downsides.
 
+# Comments
+Reddit has a few [helpful comments](https://www.reddit.com/r/bicycletouring/comments/1av1bms/flying_with_a_bike_in_a_plastic_bag/) on this post.
