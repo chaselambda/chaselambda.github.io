@@ -184,3 +184,30 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "syntax-highlighting";
+
+.chat-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(to right, hsl(300, 80%, 50%), hsl(0, 80%, 50%));
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  // transition: transform 0.3s ease;
+  text-decoration: none;
+}
+
+.chat-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+  gap: 20px;
+}
+
+.chat-button:hover {
+  background: linear-gradient(to right, hsl(300, 100%, 50%), hsl(0, 100%, 50%));
+  // transform: scale(1.05);
+  text-decoration: none;
+}
